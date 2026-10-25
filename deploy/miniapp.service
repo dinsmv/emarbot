@@ -1,0 +1,15 @@
+[Unit]
+Description=EMAR Capital Mini App (materials)
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/finish
+Environment=MINIAPP_PORT=8765
+ExecStart=/root/finish/.venv/bin/python /root/finish/serve_miniapp.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

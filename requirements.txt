@@ -1,0 +1,11 @@
+python-telegram-bot[job-queue]
+python-dotenv
+chromadb
+groq
+anthropic
+requests
+gspread
+oauth2client
+python-docx
+openpyxl
+pysqlite3-binary

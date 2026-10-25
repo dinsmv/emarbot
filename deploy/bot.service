@@ -1,0 +1,16 @@
+[Unit]
+Description=EMAR Capital Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/finish
+Environment=PYTHONUNBUFFERED=1
+# На Ubuntu 24.04 пакеты в venv (remote_update.sh подставит путь при установке)
+ExecStart=/root/finish/.venv/bin/python /root/finish/bot.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

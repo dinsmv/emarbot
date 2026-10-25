@@ -1,0 +1,293 @@
+{
+  "title": "EMAR Capital",
+  "subtitle": "Материалы, инструкции и ссылки",
+  "updated": "2026-07-13",
+  "categories": [
+    {
+      "id": "links",
+      "title": "Полезные ссылки",
+      "icon": "🔗",
+      "items": [
+        {
+          "title": "Аккаунт техподдержки",
+          "type": "link",
+          "url": "https://t.me/Emarcapitalbot"
+        },
+        {
+          "title": "Официальный канал",
+          "type": "link",
+          "url": "https://t.me/+Gm7KW3-AZNVmOWEy"
+        },
+        {
+          "title": "Отзывы компании",
+          "type": "link",
+          "url": "https://t.me/+MHHLqnoy8mUzYjYy"
+        },
+        {
+          "title": "Сайт компании",
+          "type": "link",
+          "url": "https://emarcapital.pro/"
+        },
+        {
+          "title": "Stories для контента",
+          "type": "link",
+          "url": "https://t.me/+RIcXuIFtSro0OGIy"
+        },
+        {
+          "title": "Обменник USDT компании",
+          "type": "link",
+          "url": "https://t.me/m/c7IG774aN2My"
+        }
+      ]
+    },
+    {
+      "id": "instructions",
+      "title": "Инструкции",
+      "icon": "📋",
+      "items": [
+        {
+          "title": "Forex4You: регистрация, открытие счета и пополнение",
+          "type": "video",
+          "media": "video",
+          "text": "Forex4You: регистрация, открытие счета и пополнение",
+          "video_links": [
+            {
+              "label": "YouTube",
+              "url": "https://www.youtube.com/watch?v=2Sfv0Bt0Klk"
+            },
+            {
+              "label": "VK Video",
+              "url": "https://vkvideo.ru/video-233074365_456239101"
+            },
+            {
+              "label": "RuTube",
+              "url": "https://rutube.ru/video/8576f0654d97cc6049d37f9e72dda406/"
+            }
+          ]
+        },
+        {
+          "title": "Регистрация на брокере ROBOFOREX",
+          "type": "video",
+          "media": "video",
+          "text": "Регистрация на брокере RoboForex",
+          "video_links": [
+            {
+              "label": "YouTube",
+              "url": "https://youtu.be/FWvdftlfjnQ?si=mWmS_yzBwq0G48Ac"
+            },
+            {
+              "label": "RuTube",
+              "url": "https://rutube.ru/video/private/4d3cdddca7cd11c7f2b94b6544d26eac/?p=iQzYK869l3c38TMR3Lh-5A"
+            }
+          ]
+        },
+        {
+          "title": "Пополнение брокера ROBOFOREX",
+          "type": "video",
+          "media": "video",
+          "text": "Инструкция, как пополнить счет RoboForex с помощью криптовалюты",
+          "video_links": [
+            {
+              "label": "RuTube",
+              "url": "https://rutube.ru/video/private/b4285ebe4a0e0780c742c000f973d2bd/?p=H6ZLglJYdYzemqgFC9ihJw"
+            },
+            {
+              "label": "YouTube",
+              "url": "https://youtu.be/8acuQdcmAuQ?is=2KzgcvXmexV3XnDG"
+            }
+          ]
+        },
+        {
+          "title": "Регистрация и аренда сервера GOVPSFX",
+          "type": "video",
+          "media": "video",
+          "text": "Регистрация и аренда сервера на GOVPSFX",
+          "video_links": [
+            {
+              "label": "RuTube",
+              "url": "https://rutube.ru/video/private/feac5d3f734756aa5e0c5f024458d19a/?p=v0lvv5VS4doBxN1QhL8EXA"
+            },
+            {
+              "label": "YouTube",
+              "url": "https://youtu.be/D-uF26u77Ag?si=jSLj71jm8yma0d_Y"
+            }
+          ]
+        },
+        {
+          "title": "Как зайти на VPS сервер",
+          "type": "video",
+          "media": "video",
+          "text": "Как зайти на VPS сервер",
+          "video_links": [
+            {
+              "label": "iPhone / Android / Mac — RuTube",
+              "url": "https://rutube.ru/video/private/a03520ff93c46c5d39b23b35f7198b43/?p=5kf_F2F5lCOsbl9959yEZg"
+            },
+            {
+              "label": "iPhone / Android / Mac — YouTube",
+              "url": "https://youtu.be/bqy_K4x2H44?si=Y9m0CwUfpJB0-rIS"
+            },
+            {
+              "label": "Windows — RuTube",
+              "url": "https://rutube.ru/video/private/fc2dbe431cb953e12cbac0614207590e/?p=JS_0eT0-M0mMgjdxNudPwA"
+            },
+            {
+              "label": "Windows — YouTube",
+              "url": "https://youtu.be/YmF-BX8ZlgM?is=uZvXYG9wej0y6AfI"
+            }
+          ]
+        },
+        {
+          "title": "MoniTrading: Регистрация и обзор",
+          "type": "video",
+          "media": "video",
+          "text": "MoniTrading: Регистрация и обзор",
+          "video_links": [
+            {
+              "label": "YouTube",
+              "url": "https://www.youtube.com/watch?v=9RW97rLPkHw"
+            },
+            {
+              "label": "RuTube",
+              "url": "https://rutube.ru/video/private/74208186428fce66b8cf74ace84c4b77/?p=RYL3jO7rlEsttxD0I-B9gA"
+            },
+            {
+              "label": "VK Video",
+              "url": "https://vkvideo.ru/video-233074365_456239100"
+            }
+          ]
+        },
+        {
+          "title": "Краткий обзор MoniTrading",
+          "type": "file",
+          "media": "video",
+          "text": "Краткий обзор MoniTrading",
+          "file": "Краткий обзор FXmonitor.mp4"
+        },
+        {
+          "title": "Как поставить советники на сушку",
+          "type": "video",
+          "media": "video",
+          "text": "Инструкция как поставить торговые советники на сушку:",
+          "video_links": [
+            {
+              "label": "RuTube",
+              "url": "https://rutube.ru/video/private/8afc20bb8fda00db5999aaf01f348890/?p=EAbRSTO_btZ3XXWQZauFJg"
+            },
+            {
+              "label": "YouTube",
+              "url": "https://youtu.be/4lZDd_y1Kxg?is=b1niPihLox2keUfH"
+            }
+          ]
+        },
+        {
+          "title": "Телеграм бот для уведомлений",
+          "type": "link",
+          "url": "https://t.me/MoniTrading_bot"
+        },
+        {
+          "title": "Условные обозначения валютной пары MoniTrading",
+          "type": "file",
+          "media": "photo",
+          "text": "Условные обозначения валютной пары MoniTrading",
+          "file": "monitrading-pair-legend.png"
+        },
+        {
+          "title": "Как поделиться мониторингом",
+          "type": "file",
+          "media": "photo",
+          "text": "Как поделиться мониторингом",
+          "file": "how-to-share-monitoring.jpg"
+        },
+        {
+          "title": "Звук Денег для уведомлений",
+          "type": "file",
+          "media": "audio",
+          "text": "Звук Денег для уведомлений",
+          "file": "Звук денег.mp3"
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "title": "PDF и документы",
+      "icon": "📄",
+      "items": [
+        {
+          "title": "Партнерская программа RoboForex",
+          "type": "file",
+          "media": "pdf",
+          "text": "Партнерская программа RoboForex",
+          "file": "Партнерская программа RoboForex.pdf"
+        },
+        {
+          "title": "Партнерская программа Forex4You",
+          "type": "file",
+          "media": "pdf",
+          "text": "Партнерская программа Forex4You",
+          "file": "Маркетнг план Forex4You.pdf"
+        }
+      ]
+    },
+    {
+      "id": "info",
+      "title": "Полезная информация",
+      "icon": "ℹ️",
+      "items": [
+        {
+          "title": "Маркетинг план компании EMAR CAPITAL",
+          "type": "info",
+          "noCopy": true,
+          "text": "Маркетинг план компании EMAR CAPITAL\n\n✅ 500$ — Стоимость Продукта\n\nРаспределение 49% / 51% — Большая часть партнёрам\n\n1 линия — 170$\n2 линия — 50$\n3 линия — 35$"
+        },
+        {
+          "title": "Набор эмодзи Emar Capital для статуса Telegram",
+          "type": "info",
+          "url": "https://t.me/addemoji/EMARCAPITAL",
+          "openLabel": "Открыть пак эмодзи",
+          "text": "Набор эмодзи Emar Capital для статуса Telegram.\n\nДля установки нажмите на эмодзи в канале и выберите «Сделать статусом»."
+        },
+        {
+          "title": "Обменник USDT — Cardex",
+          "type": "info",
+          "url": "https://t.me/m/c7IG774aN2My",
+          "openLabel": "💬 Открыть чат",
+          "text": "Официальный партнёр Emar Capital по обмену и международным платежам — компания Cardex.\n\nС 2017 года — услуги в 60+ странах для физических и юридических лиц.\n\nЧто можно решить:\n• Обмен валюты на USDT (покупка советников, пополнение депозитов и обратный обмен)\n• Оплата недвижимости, авто, учёбы, лечения и отдыха за рубежом\n• Международные инвойсы и бизнес-платежи\n• Пополнение зарубежных карт\n\nОфисы: Москва, Санкт-Петербург, Казань, Дубай, Бали.\n\nTelegram: https://t.me/m/c7IG774aN2My\nКодовое слово: EMAR CAPITAL"
+        },
+        {
+          "title": "Ссылки на мониторинги компании (TRINITY / KING / CLASSIC)",
+          "type": "info",
+          "text": "Ссылки на мониторинги компании:\n\nTRINITY\n\n1 — TRINITY AGGRESSIVE\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--trinity/11930211\n\n- Мониторинг MoniTrading - https://monitrading.online/s/TIpfHL?account=afa268d70c9e6\n\n2 — TRINITY MEDIUM\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--trinity-m/11930255\n\n- Мониторинг MoniTrading - https://monitrading.online/s/se8dzU?account=a8f98d1b725aa\n\n3 — TRINITY CONSERVATIVE\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--trinity-k/11930259\n\n- Мониторинг MoniTrading - https://monitrading.online/s/WYPHyP?account=a6f467a8c1f7f\n\nKING\n\n1 — KING AGGRESSIVE\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--king-aggressive/11930194\n\n- Мониторинг MoniTrading - https://monitrading.online/s/BfQijj?account=a132f519f772e\n\n2 — KING MEDIUM\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--king-medium/11930201\n\n- Мониторинг MoniTrading - https://monitrading.online/s/tCBuIi?account=a2d4533dc9da2\n\n3 — KING CONSERVATIVE\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--king-conservative/11930203#portfolioSettingsBtn\n\n- Мониторинг MoniTrading - https://monitrading.online/s/WZ5DOO?account=aac69b5f23a2b\n\nCLASSIC\n\n1 — CLASSIC AGGRESSIVE\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--classic/11974119\n\n- Мониторинг MoniTrading - https://monitrading.online/s/ddoSLr?account=a3a019f495654\n\n2 — CLASSIC MEDIUM\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--classic-m/11974124\n\n- Мониторинг MoniTrading - https://monitrading.online/s/2aQb2c?account=a21a6dc725d77\n\n3 — CLASSIC CONSERVATIVE\n\n- Мониторинг MyFxBook - https://www.myfxbook.com/portfolio/emar-capital--classic-k/11974129\n\n- Мониторинг MoniTrading - https://monitrading.online/s/dXkg4B?account=a540b365ffa8d",
+          "html": "<strong>Ссылки на мониторинги компании</strong>:<br><br><div class=\"tg-letter-row\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_1.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_2.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_3.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_2.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_4.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_5.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">TRINITY AGGRESSIVE</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--trinity/11930211\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--trinity/11930211\">Ссылка</a><br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/TIpfHL?account=afa268d70c9e6\" data-href=\"https://monitrading.online/s/TIpfHL?account=afa268d70c9e6\">Ссылка</a><br><br><div class=\"tg-divider-row\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_7.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_8.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_9.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_10.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_11.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_12.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">TRINITY MEDIUM</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--trinity-m/11930255\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--trinity-m/11930255\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/se8dzU?account=a8f98d1b725aa\" data-href=\"https://monitrading.online/s/se8dzU?account=a8f98d1b725aa\">Ссылка</a><br><br><div class=\"tg-divider-row\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_7.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_8.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_9.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_10.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_11.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_13.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">TRINITY CONSERVATIVE</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--trinity-k/11930259\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--trinity-k/11930259\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/WYPHyP?account=a6f467a8c1f7f\" data-href=\"https://monitrading.online/s/WYPHyP?account=a6f467a8c1f7f\">Ссылка</a><br><br><div class=\"tg-letter-row\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_14.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_2.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_3.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_15.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_5.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">KING AGGRESSIVE</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--king-aggressive/11930194\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--king-aggressive/11930194\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/BfQijj?account=a132f519f772e\" data-href=\"https://monitrading.online/s/BfQijj?account=a132f519f772e\">Ссылка</a><br><br><div class=\"tg-divider-row\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_7.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_8.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_9.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_10.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_11.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_12.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">KING MEDIUM</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--king-medium/11930201\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--king-medium/11930201\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/tCBuIi?account=a2d4533dc9da2\" data-href=\"https://monitrading.online/s/tCBuIi?account=a2d4533dc9da2\">Ссылка</a><br><br><div class=\"tg-divider-row\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_7.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_8.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_9.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_10.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_11.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_13.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">KING CONSERVATIVE</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--king-conservative/11930203#portfolioSettingsBtn\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--king-conservative/11930203#portfolioSettingsBtn\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/WZ5DOO?account=aac69b5f23a2b\" data-href=\"https://monitrading.online/s/WZ5DOO?account=aac69b5f23a2b\">Ссылка</a><br><br><div class=\"tg-letter-row\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_16.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_17.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_18.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_19.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_19.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_2.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-letter\" src=\"/files/emoji/sticker_16.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_5.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">CLASSIC AGGRESSIVE</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--classic/11974119\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--classic/11974119\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/ddoSLr?account=a3a019f495654\" data-href=\"https://monitrading.online/s/ddoSLr?account=a3a019f495654\">Ссылка</a><br><br><div class=\"tg-divider-row\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_7.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_8.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_9.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_10.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_11.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_12.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">CLASSIC MEDIUM</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--classic-m/11974124\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--classic-m/11974124\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/2aQb2c?account=a21a6dc725d77\" data-href=\"https://monitrading.online/s/2aQb2c?account=a21a6dc725d77\">Ссылка</a><br><br><div class=\"tg-divider-row\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_7.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_8.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_9.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_10.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-rule\" src=\"/files/emoji/sticker_11.png\" alt=\"\" draggable=\"false\"></div><br><br><div class=\"tg-section-title\"><img class=\"tg-emoji tg-emoji-num\" src=\"/files/emoji/sticker_13.png\" alt=\"\" draggable=\"false\"><img class=\"tg-emoji tg-emoji-dash\" src=\"/files/emoji/sticker_6.png\" alt=\"\" draggable=\"false\"><strong class=\"tg-bold-title\">CLASSIC CONSERVATIVE</strong></div><br><br>- Мониторинг <strong>MyFxBook</strong> - <a class=\"text-link tg-link\" href=\"https://www.myfxbook.com/portfolio/emar-capital--classic-k/11974129\" data-href=\"https://www.myfxbook.com/portfolio/emar-capital--classic-k/11974129\">Ссылка</a> <br><br>- Мониторинг <strong>MoniTrading</strong> - <a class=\"text-link tg-link\" href=\"https://monitrading.online/s/dXkg4B?account=a540b365ffa8d\" data-href=\"https://monitrading.online/s/dXkg4B?account=a540b365ffa8d\">Ссылка</a>"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "title": "Шаблоны и прочее",
+      "icon": "📎",
+      "items": [
+        {
+          "title": "Шаблон для подачи заявки на установку в техподдержку",
+          "type": "text",
+          "text": "Шаблон для подачи заявки на установку теста в техподдержку\n\nVPS сервер:\nIp - \nЛогин - \nПароль - \n\nДанные торгового счета:\nНомер:\nПароль: \nСервер брокера:\n\nКлюч MoniTrading:\n\nТест сроком на 2 недели\n\nДобрый вечер, Прошу установить лицензию торгового советника ....... (название торгового советника)"
+        },
+        {
+          "title": "Шаблон заявки на обновление Советника",
+          "type": "text",
+          "text": "Шаблон заявки на обновление Советника:\n\nЗдравствуйте! \n\nПрошу обновить торговый советник \"название советника\" \n\nДанные счета:\n\nНомер счета - \nСервер брокера - \n\nДанные сервера:\n\nIp - \nЛогин - \nПароль -"
+        },
+        {
+          "title": "Шаблон на перенос советника между брокерами",
+          "type": "text",
+          "text": "Шаблон для переноса советника между брокерами\n\nVPS сервер:\nIp - \nЛогин - \nПароль - \n\nОТКУДА ПЕРЕНОСИМ (Старый счет)\nДанные торгового счета:\nНомер:\nПароль: \nСервер брокера:\n\n\nКУДА ПЕРЕНОСИМ (Новый счет)\nДанные торгового счета:\nНомер:\nПароль: \nСервер брокера:\n\nКлюч MoniTrading:\n(ОБЯЗАТЕЛЬНО ПОДГОТОВЬТЕ МОНИТОР, УДАЛИТЕ СТАРЫЕ СОВЕТНИКИ ОТТУДА)\n\nВаш ник телеграм: @...\n\nНик телеграм вашего пригласителя: @…\n\nКакой у вас счет: USD или USD Cent\n\nДобрый вечер, Прошу перенести лицензию торгового советника ....... (название торгового советника)"
+        },
+        {
+          "title": "Шаблон на перенос между серверами",
+          "type": "text",
+          "text": "Шаблон для переноса советника на новый сервер\n\nДанные торгового счета:\nНомер:\nПароль: \nСервер брокера:\n\n\n❌ ОТКУДА ПЕРЕНОСИМ (Старый сервер)\n\nVPS сервер:\nIp - \nЛогин - \nПароль - \n\n\n✅ КУДА ПЕРЕНОСИМ (Новый сервер)\n\nVPS сервер:\nIp - \nЛогин - \nПароль - \n\n🔑 Ключ MoniTrading: (вставьте ключ)\n\nВаш ник телеграм: @...\n\nНик телеграм вашего пригласителя: @…\n\nДобрый вечер, прошу перенести лицензию торгового советника (название советика) на новый сервер"
+        }
+      ]
+    }
+  ]
+}

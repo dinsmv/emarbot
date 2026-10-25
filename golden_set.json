@@ -1,0 +1,106 @@
+[
+  {"q": "привет", "expect_intent": "greeting"},
+  {"q": "привет, ты кто", "expect_intent": "greeting"},
+  {"q": "кто ты", "expect_intent": "greeting"},
+  {"q": "здравствуйте", "expect_intent": "greeting"},
+  {"q": "добрый день", "expect_intent": "greeting"},
+
+  {"q": "что нужно для работы с MoniTrading?", "expect_contains": "ключ мониторинга"},
+  {"q": "MoniTrading что это", "expect_contains": "мониторинга"},
+  {"q": "что такое монитрейдинг", "expect_contains": "мониторинга"},
+  {"q": "что нужно для работы с монитрейдинг", "expect_contains": "ключ мониторинга"},
+
+  {"q": "что такое vps", "expect_contains": "виртуальн"},
+  {"q": "зачем нужен впс", "expect_contains": "виртуальн"},
+  {"q": "что такое сервер", "expect_contains": "VPS"},
+  {"q": "зачем нужен сервер", "expect_contains": "круглосуточно"},
+  {"q": "как зарегать сервер", "expect_intent": "howto"},
+
+  {"q": "просадка 35% что делать", "expect_contains": "сушк"},
+  {"q": "просадка 55 процентов", "expect_contains": "Auto Trading"},
+  {"q": "просадка 10%", "expect_contains": "рабочая зона"},
+  {"q": "просадка 10%", "expect_not_contains": "схема EMAR Capital"},
+  {"q": "просадка 45%", "expect_contains": "схема EMAR Capital"},
+  {"q": "просадка 45%", "expect_not_contains": "При просадке 45%"},
+  {
+    "q": "то есть ничего не делать?",
+    "history": [
+      {"role": "user", "text": "просадка 10%"},
+      {
+        "role": "assistant",
+        "text": "При просадке 10% — это рабочая зона (0–20%). Беспокоиться не нужно, ничего не меняйте; наблюдайте за счётом в MoniTrading.\n\nСхема на случай роста: сушка при 20–30%, далее долив (подушка 100% депозита)."
+      }
+    ],
+    "expect_contains": "ничего делать не нужно",
+    "expect_not_contains": "подушк"
+  },
+  {
+    "q": "хочу подключить нового партнера что делать?",
+    "history": [
+      {"role": "user", "text": "просадка 10%"},
+      {
+        "role": "assistant",
+        "text": "При просадке 10% — это рабочая зона (0–20%). Беспокоиться не нужно, ничего не меняйте; наблюдайте за счётом в MoniTrading."
+      }
+    ],
+    "expect_not_contains": "рабочая зона"
+  },
+  {"q": "что такое долив", "expect_intent": "define"},
+  {"q": "что такое сушка?", "expect_intent": "define"},
+  {
+    "q": "что такое лонг",
+    "history": [
+      {"role": "user", "text": "кто вы"},
+      {"role": "assistant", "text": "EMAR Capital — команда разработчиков..."}
+    ],
+    "expect_intent": "define",
+    "expect_not_contains": "команда разработчиков"
+  },
+  {"q": "как сделать долив", "expect_contains": "100%"},
+  {"q": "что делать при просадке", "expect_contains": "сушк"},
+  {"q": "допустимая просадка 20%", "expect_intent": "rag"},
+  {"q": "у меня просадка", "expect_contains": "сушк"},
+  {"q": "просадка растёт", "expect_contains": "сушк"},
+
+  {"q": "вы мошенники?", "expect_contains": "14 дней"},
+  {"q": "это не скам?", "expect_contains": "14 дней"},
+  {"q": "кто такая EMAR Capital", "expect_contains": "советник"},
+
+  {"q": "позовите оператора", "expect_intent": "operator"},
+  {"q": "хочу поговорить с человеком", "expect_intent": "operator"},
+
+  {"q": "какие есть инструкции", "expect_intent": "catalog"},
+  {"q": "как зарегистрироваться на forex4you", "expect_intent": "howto"},
+  {"q": "скинь видео регистрации сервера", "expect_intent": "howto"},
+  {"q": "нужен шаблон заявки", "expect_intent": "template"},
+
+  {"q": "параметры Classic Aggressive", "expect_intent": "specs"},
+  {"q": "как работает советник King", "expect_intent": "specs"},
+
+  {"q": "какие тут риски?", "expect_contains": "Рыночный риск"},
+  {"q": "какие риски у советников", "expect_contains": "Рыночный риск"},
+  {"q": "чем я рискую", "expect_contains": "Рыночный риск"},
+  {"q": "насколько это рискованно", "expect_contains": "риск"},
+  {"q": "риски при просадке", "expect_contains": "сушк"},
+  {
+    "q": "какие тут риски?",
+    "history": [
+      ["user", "сколько я могу заработать?"],
+      ["assistant", "ориентир 5–7% в месяц"]
+    ],
+    "expect_contains": "Рыночный риск",
+    "expect_not_contains": "5–7%"
+  },
+
+  {"q": "сколько я могу заработать?", "expect_contains": "5–7%"},
+  {"q": "сколько я могу тут заработать?", "expect_contains": "5–7%"},
+  {"q": "сколько я могу тут заработать?", "expect_contains": "риск-менеджмент"},
+  {"q": "как пополнить депозит?", "expect_contains": "личный кабинет"},
+  {"q": "как вывести депозит?", "expect_contains": "личный кабинет"},
+
+  {"q": "что ты можешь", "expect_intent": "greeting"},
+  {"q": "что ты умеешь?", "expect_intent": "greeting"},
+  {"q": "чем можешь помочь", "expect_intent": "greeting"},
+  {"q": "как пополнить депозит", "expect_intent": "rag"},
+  {"q": "вы мошенники?", "expect_contains": "протестировать"}
+]

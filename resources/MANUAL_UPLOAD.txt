@@ -1,0 +1,28 @@
+# Материалы Mini App и бота
+
+## Видео-инструкции
+Текст поста + ссылки YouTube/RuTube (без ссылок на канал «Промо Материалы»).
+
+Пересборка каталога:
+```bash
+cd finish && python3 resources/build_catalog.py
+```
+
+Нужен `finish/resources/promo_export/result.json` (экспорт Telegram Desktop).
+
+## PDF / фото / аудио
+Файлы в `finish/resources/files/` — бот отправляет их в чат, Mini App открывает по `/files/…`.
+
+На VPS файлы уже должны быть (деплой с `--full` или rsync `resources/files/`).
+
+## Добавить недостающие фото
+Скрин «какую ссылку выбрать на Forex4You» → `resources/files/какую ссылку выбрать.jpeg` (уже добавлен).
+
+## Видео без YouTube/RuTube
+«Краткий обзор MoniTrading» — локальный файл `Краткий обзор FXmonitor.mp4`.
+
+«Официальная презентация EMAR CAPITAL» — временно убрана из каталога (файл слишком большой).
+Когда появится ссылка YouTube/RuTube — добавить в `TITLE_MSG_IDS` и убрать из `REMOVED_TITLES` в `build_catalog.py`.
+
+## Stories
+Ссылка берётся из навигации экспорта: `https://t.me/+YP-iPpopnNJlNTY6` (буква «l», не «I»).
